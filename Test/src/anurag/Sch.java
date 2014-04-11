@@ -16,7 +16,7 @@ class Student extends School {
 	public void getmarks() {
 		System.out.println(marks);
 	}
-
+	//change
 }
 
 public class Sch {
